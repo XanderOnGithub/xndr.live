@@ -1,3 +1,7 @@
+## Tasks
+
+Read [TASKS.md](TASKS.md) at the start of a session for project status, next steps, and conventions. Keep it updated: check off finished items and add new ones as work progresses.
+
 ## Development
 
 When starting the dev server, use background mode:
